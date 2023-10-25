@@ -1,5 +1,9 @@
 # UltraDict
 
+## **NOTICE**
+
+**This is a fork of the original [UltraDict](https://github.com/ronny-rentner/UltraDict/).  It has been modified to enable building, installing and testing on Raspberry Pi OS on Python 3.11.6.  The relevant github [issue](https://github.com/ronny-rentner/UltraDict/issues/27) shows the failed build, describes the needed changes and then shows the successful build, install and test run.**
+
 Sychronized, streaming Python dictionary that uses shared memory as a backend
 
 **Warning: This is an early hack. There are only few unit tests and so on. Maybe not stable!**
