@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-# Install_counter.sh
+# Install_UltraDict.sh
 #
 
 export APP_HOME="/home/$(whoami)/UltraDict"
